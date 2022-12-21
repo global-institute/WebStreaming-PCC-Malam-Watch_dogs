@@ -501,26 +501,26 @@ Version: 1.0
 }
  .bg-primary, .btn-primary, .btn-outline-primary:hover, .badge-primary {
      border-color: transparent !important;
-     background: #ff516b;
+     background: #1275c7;
     /* Old browsers */
-     background: -moz-linear-gradient(-45deg, #ff516b 0%, #826cfd 100%);
+     background: -moz-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* FF3.6-15 */
-     background: -webkit-linear-gradient(-45deg, #ff516b 0%,#826cfd 100%);
+     background: -webkit-linear-gradient(-45deg, #1275c7 0%,#d0e3f2 100%);
     /* Chrome10-25,Safari5.1-6 */
-     background: linear-gradient(135deg, #ff516b 0%,#826cfd 100%);
+     background: linear-gradient(135deg, #1275c7 0%,#d0e3f2 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff516b', endColorstr='#826cfd',GradientType=1 );
     /* IE6-9 fallback on horizontal gradient */
 }
  .btn-outline-primary{
-     border-color: #ff516b;
-     color: #ff516b;
+     border-color: #1275c7;
+     color: #1275c7;
 }
  .text-primary{
-     color: #ff516b !important;
+     color: #1275c7 !important;
 }
  .progress-bar{
-     background-color: #ff516b;
+     background-color: #1275c7;
 }
  .bg-success, .btn-success, .btn-outline-success:hover, .badge-success {
      border-color: transparent !important;
@@ -699,7 +699,7 @@ Version: 1.0
      margin: 0 0 5px;
 }
  a {
-     color: #ff516b;
+     color: #1275c7;
      text-decoration: none !important;
 }
  .btn {
@@ -743,7 +743,7 @@ Version: 1.0
      line-height: 20px;
 }
  .pagination .page-item.active .page-link {
-     background: #ff516b none repeat scroll 0 0;
+     background: #1275c7 none repeat scroll 0 0;
      border-radius: 2px;
      color: #fff;
      height: 30px;
@@ -962,13 +962,13 @@ Version: 1.0
  .login-main-wrapper {
      background: #ff516b;
     /* Old browsers */
-     background: -moz-linear-gradient(-45deg, #ff516b 0%, #826cfd 100%);
+     background: -moz-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* FF3.6-15 */
-     background: -webkit-linear-gradient(-45deg, #ff516b 0%,#826cfd 100%);
+     background: -webkit-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* Chrome10-25,Safari5.1-6 */
-     background: linear-gradient(135deg, #ff516b 0%,#826cfd 100%);
+     background: linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff516b', endColorstr='#826cfd',GradientType=1 );
+     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1275c7', endColorstr='#d0e3f2',GradientType=1 );
     /* IE6-9 fallback on horizontal gradient */
      height: calc(100vh - 0rem);
 }
@@ -1005,11 +1005,11 @@ Version: 1.0
  .login-main-right .owl-theme .owl-controls .owl-page.active span, .login-main-right .owl-theme .owl-controls .owl-page span:hover {
      background: #ff516b;
     /* Old browsers */
-     background: -moz-linear-gradient(-45deg, #ff516b 0%, #826cfd 100%);
+     background: -moz-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* FF3.6-15 */
-     background: -webkit-linear-gradient(-45deg, #ff516b 0%,#826cfd 100%);
+     background: -webkit-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* Chrome10-25,Safari5.1-6 */
-     background: linear-gradient(135deg, #ff516b 0%,#826cfd 100%);
+     background: linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff516b', endColorstr='#826cfd',GradientType=1 );
     /* IE6-9 fallback on horizontal gradient */
