@@ -164,7 +164,9 @@ Version: 1.0
     /* Old browsers */
      background: -moz-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* FF3.6-15 */
-     background: -webkit-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
+
+     background: -webkit-linear-gradient(-45deg, #1275c7 0%,#d0e3f2 100%);
+
     /* Chrome10-25,Safari5.1-6 */
      background: linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
@@ -504,11 +506,13 @@ Version: 1.0
     /* Old browsers */
      background: -moz-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* FF3.6-15 */
-     background: -webkit-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
+
+     background: -webkit-linear-gradient(-45deg, #1275c7 0%,#d0e3f2 100%);
     /* Chrome10-25,Safari5.1-6 */
-     background: linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
+     background: linear-gradient(135deg, #1275c7 0%,#d0e3f2 100%);
+
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff516b', endColorstr='#826cfd',GradientType=1 );
+     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1275c7', endColorstr='#d0e3f2',GradientType=1 );
     /* IE6-9 fallback on horizontal gradient */
 }
  .btn-outline-primary{
@@ -742,7 +746,7 @@ Version: 1.0
      line-height: 20px;
 }
  .pagination .page-item.active .page-link {
-     background: #ff516b none repeat scroll 0 0;
+     background: #1275c7 none repeat scroll 0 0;
      border-radius: 2px;
      color: #fff;
      height: 30px;
@@ -963,9 +967,11 @@ Version: 1.0
     /* Old browsers */
      background: -moz-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* FF3.6-15 */
-     background: -webkit-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
+
+     background: -webkit-linear-gradient(-45deg, #1275c7 0%,#d0e3f2 100%);
     /* Chrome10-25,Safari5.1-6 */
-     background: linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
+     background: linear-gradient(135deg, #1275c7 0%,#d0e3f2 100%);
+
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1275c7', endColorstr='#d0e3f2',GradientType=1 );
     /* IE6-9 fallback on horizontal gradient */
@@ -1006,9 +1012,11 @@ Version: 1.0
     /* Old browsers */
      background: -moz-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
     /* FF3.6-15 */
-     background: -webkit-linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
+
+     background: -webkit-linear-gradient(-45deg, #1275c7 0%,#d0e3f2 100%);
     /* Chrome10-25,Safari5.1-6 */
-     background: linear-gradient(-45deg, #1275c7 0%, #d0e3f2 100%);
+     background: linear-gradient(135deg, #1275c7 0%,#d0e3f2 100%);
+
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1275c7', endColorstr='#d0e3f2',GradientType=1 );
     /* IE6-9 fallback on horizontal gradient */
