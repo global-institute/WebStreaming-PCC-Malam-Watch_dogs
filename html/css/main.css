@@ -9,7 +9,7 @@ body {
     letter-spacing: 4px;
     text-align: center;
     color: #414f57;
-    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(../img/bg.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url("../img/LB.png");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
