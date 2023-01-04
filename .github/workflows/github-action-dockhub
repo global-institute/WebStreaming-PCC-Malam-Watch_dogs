@@ -7,6 +7,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: build and tag image
-        run: docker build . --file Dockerfile --tag mahardikaglobal/ProjectUAS:v1
+        run: docker build . --file Dockerfile --tag mahardikaglobal/projectuas:v3
       - name: push image to docker hub
-        run: docker login -u mahardikaglobal -p ${{secrets.DOCKER_MAHARDIKA}} && docker push mahardikaglobal/ProjectUAS:v1
+        run: docker login -u mahardikaglobal -p ${{secrets.DOCKER_MAHARDIKA}} && docker push mahardikaglobal/projectuas:v3
